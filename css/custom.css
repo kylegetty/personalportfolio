@@ -1,0 +1,80 @@
+.body {
+	width: 100%;
+	height: 100%;
+	margin-top: 50px;
+	font-family: 'Oswald', sans-serif;
+	color: #22313F;
+}
+
+h1, h2, h3, p {
+	color: #D2D7D3 !important;
+	font-family: 'Arvo', serif;
+}
+
+
+.intro{
+	text-align: center;
+	height: auto;
+	padding: 300px 0;
+	display: table;
+	width: 100%;
+	background-image: url(../images/background1.JPG);
+	background-position: center;
+	background-size: cover;
+	border-bottom: 2px;
+
+
+}
+
+#why {
+	background-color: #6C7A89;
+	width: 100%;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+#who {
+	background-image: url(../images/blurrybackground.JPG);
+	background-position: center;
+	background-size: cover;
+	width: 100%;
+	padding-top: 150px;
+	padding-bottom: 150px;
+}
+
+#projects {
+	background-color: #5C97BF;
+	width: 100%;
+	padding-top: 150px;
+	padding-bottom: 150px;
+}
+
+#contact {
+	background-color: #1E8BC3;
+	width: 100%;
+	padding-top: 150px;
+	padding-bottom: 150px;
+}
+
+
+.navbar {
+	background-color: black;
+}
+
+
+.fa {
+	//color: #D2D7D3;
+
+}
+
+.page-scroll{
+	-webkit-transistion-property: -webkit-transform;
+	-webkit-transistion-duration: 1s;
+	-moz- transistion-property: -webkit-transform;
+	-moz- transistion-duration: 1s;
+
+}
+	
+
+// Content Section
+
